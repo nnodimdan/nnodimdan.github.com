@@ -1,0 +1,112 @@
+body {
+	background-color: #29323c  ;
+}
+.fa-home {
+color: white;
+font-size: 20px;
+background: #041b2D;
+padding: 15px;
+border-radius: 30px;
+}
+
+.fa-filter{
+color: white;
+font-size: 20px;
+background: #041b2D;
+padding: 15px;
+border-radius: 30px;
+}
+
+.fa-bars{
+color: white;
+font-size: 20px;
+background: #041b2D;
+padding: 15px;
+border-radius: 30px;
+}
+
+.fa-envelope{
+color: white;
+font-size: 20px;
+background: #041b2D;
+padding: 15px;
+border-radius: 30px;
+}
+.fa-shopping-cart{
+color: white;
+font-size: 20px;
+background: #041b2D;
+padding: 15px;
+border-radius: 30px;
+}
+
+.fa-calendar{
+	color: white;
+font-size: 20px;
+background: #041b2D;
+padding: 15px;
+border-radius: 30px;
+}
+
+.fa-th-large{
+	color: white;
+font-size: 20px;
+background: #041b2D;
+padding: 15px;
+border-radius: 30px;
+}
+
+ .fa-address-book{
+ 	color: white;
+font-size: 20px;
+background: #041b2D;
+padding: 15px;
+border-radius: 30px;
+ }
+ .fa-sort-numeric-up{
+ color: white;
+font-size: 20px;
+background: #041b2D;
+padding: 15px;
+border-radius: 30px;
+ }
+.fa-male {
+	color: white;
+font-size: 20px;
+background: #041b2D;
+padding: 15px;
+border-radius: 30px;
+}
+
+
+.fa-cc-visa{
+	color: white;
+font-size: 20px;
+background: #041b2D;
+padding: 15px;
+border-radius: 30px;
+}
+ .fa-copyright{
+ 	position: relative;
+ 	align-content: center;
+ 	color: white;
+font-size: 20px;
+background: #041b2D;
+padding: 15px;
+border-radius: 30px;	
+ }
+ .fa-class{
+ 	color: white;
+font-size: 20px;
+background: #041b2D;
+padding: 15px;
+border-radius: 30px;
+ }
+
+ .wrapper{
+ text-align: center;
+ }
+ .hype{
+ 	text-align: center;
+ }
+
